@@ -1,0 +1,4 @@
+baseURL = "https://celularmorma-cmyk.github.io/"
+theme = "PaperMod"
+title = "My Blog"
+languageCode = "zh-tw"
